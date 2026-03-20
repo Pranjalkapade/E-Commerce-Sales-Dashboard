@@ -1,0 +1,101 @@
+Order_ID,Category,SubCategory,Quantity,Amount,Profit,State,Payment_Mode,Order_Date
+1,Electronics,Tablet,5,4973,942,Maharashtra,UPI,31/01/2023
+2,Clothing,Shirt,2,2761,551,Madhya Pradesh,UPI,21/06/2023
+3,Furniture,Chair,1,4854,479,Maharashtra,Debit Card,20/09/2023
+4,Clothing,Shirt,1,2354,529,Delhi,Credit Card,27/05/2023
+5,Electronics,Mobile,2,2667,146,Maharashtra,Debit Card,25/01/2023
+6,Furniture,Table,3,2063,273,Delhi,Debit Card,21/08/2023
+7,Clothing,Jacket,4,2339,427,Delhi,Credit Card,24/02/2023
+8,Clothing,Saree,1,4204,1251,Maharashtra,Credit Card,01/11/2023
+9,Electronics,Mobile,2,585,91,Uttar Pradesh,UPI,01/07/2023
+10,Clothing,Jeans,4,2757,378,Rajasthan,Debit Card,01/09/2023
+11,Furniture,Bed,5,4454,547,Delhi,Debit Card,08/10/2023
+12,Electronics,Headphones,1,1162,150,Delhi,COD,20/07/2023
+13,Furniture,Sofa,1,1346,340,Delhi,Debit Card,07/12/2023
+14,Electronics,Laptop,5,4826,1243,Maharashtra,COD,27/01/2023
+15,Clothing,T-shirt,5,1929,419,Uttar Pradesh,COD,25/02/2023
+16,Clothing,T-shirt,4,4660,1368,Madhya Pradesh,UPI,09/04/2023
+17,Clothing,Jacket,1,512,128,Maharashtra,Credit Card,23/03/2023
+18,Furniture,Table,4,3586,469,Delhi,COD,14/09/2023
+19,Clothing,T-shirt,5,1489,231,Uttar Pradesh,COD,17/03/2023
+20,Clothing,Shirt,1,4971,1161,Uttar Pradesh,COD,14/03/2023
+21,Furniture,Chair,5,1202,170,Delhi,UPI,29/08/2023
+22,Clothing,Shirt,4,786,201,Delhi,COD,13/10/2023
+23,Clothing,Shirt,5,3474,601,Madhya Pradesh,COD,17/02/2023
+24,Furniture,Bed,2,2074,325,Maharashtra,Debit Card,23/08/2023
+25,Clothing,Saree,4,1335,282,Maharashtra,Credit Card,08/10/2023
+26,Electronics,Headphones,2,982,141,Uttar Pradesh,Debit Card,13/10/2023
+27,Electronics,Laptop,1,1669,250,Uttar Pradesh,Debit Card,10/07/2023
+28,Furniture,Sofa,5,1302,70,Madhya Pradesh,Credit Card,28/06/2023
+29,Electronics,Mobile,1,1077,83,Madhya Pradesh,Debit Card,26/11/2023
+30,Furniture,Sofa,4,643,54,Uttar Pradesh,Debit Card,25/03/2023
+31,Clothing,Jeans,5,3204,233,Uttar Pradesh,COD,28/04/2023
+32,Clothing,T-shirt,5,4643,825,Delhi,Debit Card,05/05/2023
+33,Electronics,Headphones,1,1798,266,Madhya Pradesh,UPI,14/10/2023
+34,Clothing,Saree,3,2847,532,Delhi,UPI,24/01/2023
+35,Clothing,Saree,3,3583,613,Rajasthan,COD,04/11/2023
+36,Furniture,Sofa,2,2356,602,Rajasthan,COD,05/12/2023
+37,Electronics,Headphones,5,1988,485,Rajasthan,Debit Card,10/10/2023
+38,Clothing,Jeans,1,1248,366,Madhya Pradesh,UPI,09/07/2023
+39,Furniture,Chair,5,3646,1080,Maharashtra,COD,14/08/2023
+40,Clothing,T-shirt,5,3043,508,Maharashtra,UPI,18/04/2023
+41,Furniture,Bed,2,1103,300,Rajasthan,UPI,08/09/2023
+42,Furniture,Bed,2,1164,235,Uttar Pradesh,COD,19/07/2023
+43,Electronics,Mobile,2,4535,638,Delhi,COD,28/04/2023
+44,Electronics,Laptop,3,4647,301,Uttar Pradesh,Credit Card,05/11/2023
+45,Clothing,Shirt,1,4847,1081,Maharashtra,UPI,14/09/2023
+46,Clothing,T-shirt,5,2028,253,Maharashtra,COD,19/11/2023
+47,Furniture,Table,5,3967,692,Maharashtra,UPI,20/03/2023
+48,Electronics,Camera,2,548,138,Delhi,Debit Card,28/01/2023
+49,Electronics,Tablet,5,4900,750,Uttar Pradesh,COD,13/06/2023
+50,Furniture,Bed,5,4297,355,Madhya Pradesh,COD,23/10/2023
+51,Electronics,Mobile,1,3175,938,Madhya Pradesh,COD,06/12/2023
+52,Clothing,Shirt,1,2131,299,Maharashtra,Debit Card,13/10/2023
+53,Clothing,T-shirt,5,3722,459,Maharashtra,Credit Card,31/12/2023
+54,Furniture,Bed,5,528,97,Madhya Pradesh,UPI,07/10/2023
+55,Furniture,Table,3,4527,1073,Maharashtra,UPI,24/04/2023
+56,Electronics,Laptop,2,3215,181,Madhya Pradesh,Credit Card,07/10/2023
+57,Clothing,Shirt,1,658,69,Rajasthan,Debit Card,17/07/2023
+58,Furniture,Bookcase,3,1341,129,Madhya Pradesh,Credit Card,07/11/2023
+59,Furniture,Bookcase,5,1029,91,Rajasthan,COD,02/10/2023
+60,Clothing,Shirt,1,4230,330,Uttar Pradesh,Debit Card,11/10/2023
+61,Electronics,Mobile,5,4467,807,Rajasthan,UPI,06/10/2023
+62,Furniture,Sofa,1,1326,315,Uttar Pradesh,COD,30/04/2023
+63,Electronics,Tablet,2,3744,405,Madhya Pradesh,Credit Card,15/04/2023
+64,Electronics,Mobile,2,4549,420,Delhi,COD,03/04/2023
+65,Electronics,Mobile,2,2018,471,Rajasthan,COD,08/12/2023
+66,Furniture,Bed,5,4986,432,Uttar Pradesh,Credit Card,03/04/2023
+67,Clothing,T-shirt,4,1058,298,Uttar Pradesh,UPI,12/07/2023
+68,Clothing,T-shirt,4,626,35,Madhya Pradesh,Credit Card,06/07/2023
+69,Electronics,Camera,3,4056,805,Uttar Pradesh,COD,03/05/2023
+70,Clothing,Shirt,1,798,166,Rajasthan,COD,02/12/2023
+71,Clothing,Jacket,5,4020,1082,Delhi,Credit Card,05/04/2023
+72,Clothing,Jeans,5,1424,205,Uttar Pradesh,Credit Card,17/06/2023
+73,Electronics,Mobile,3,3915,893,Madhya Pradesh,Credit Card,18/12/2023
+74,Electronics,Laptop,2,1795,375,Delhi,Credit Card,12/10/2023
+75,Furniture,Bookcase,2,1252,101,Uttar Pradesh,Credit Card,19/08/2023
+76,Clothing,T-shirt,1,4205,711,Madhya Pradesh,COD,21/02/2023
+77,Furniture,Bed,4,1311,260,Madhya Pradesh,Debit Card,11/10/2023
+78,Furniture,Table,4,700,173,Uttar Pradesh,Credit Card,27/02/2023
+79,Electronics,Headphones,3,933,80,Rajasthan,Credit Card,27/11/2023
+80,Clothing,T-shirt,3,3634,904,Madhya Pradesh,UPI,18/08/2023
+81,Furniture,Chair,3,2404,554,Delhi,COD,19/05/2023
+82,Clothing,Jacket,3,1624,392,Rajasthan,COD,14/03/2023
+83,Electronics,Laptop,3,4434,1157,Maharashtra,COD,26/11/2023
+84,Furniture,Sofa,2,3422,885,Delhi,Credit Card,26/06/2023
+85,Electronics,Tablet,5,4140,292,Delhi,Credit Card,13/02/2023
+86,Furniture,Bookcase,5,559,125,Madhya Pradesh,UPI,13/02/2023
+87,Clothing,Saree,5,1136,194,Rajasthan,Credit Card,10/12/2023
+88,Electronics,Tablet,3,4776,1385,Rajasthan,COD,27/06/2023
+89,Electronics,Camera,1,1541,81,Uttar Pradesh,COD,23/11/2023
+90,Furniture,Table,2,3042,299,Uttar Pradesh,COD,25/05/2023
+91,Furniture,Sofa,2,4623,667,Madhya Pradesh,Debit Card,27/08/2023
+92,Furniture,Chair,3,661,115,Uttar Pradesh,UPI,08/07/2023
+93,Electronics,Mobile,3,1771,96,Maharashtra,COD,15/02/2023
+94,Furniture,Sofa,4,3889,551,Maharashtra,COD,05/01/2023
+95,Furniture,Table,1,1549,253,Maharashtra,COD,08/07/2023
+96,Furniture,Bed,5,3830,657,Maharashtra,Credit Card,06/12/2023
+97,Electronics,Camera,2,4819,1256,Rajasthan,COD,09/12/2023
+98,Clothing,T-shirt,4,2460,514,Madhya Pradesh,Debit Card,14/09/2023
+99,Electronics,Camera,4,2969,680,Maharashtra,Credit Card,29/05/2023
+100,Electronics,Camera,4,2175,132,Uttar Pradesh,UPI,18/05/2023
